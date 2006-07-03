@@ -1,5 +1,7 @@
 package Tie::STDOUT;
 
+$VERSION = '1.01';
+
 use strict;
 
 open(REALSTDOUT, ">&STDOUT");
