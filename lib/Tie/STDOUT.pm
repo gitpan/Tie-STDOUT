@@ -1,6 +1,8 @@
 package Tie::STDOUT;
 
-$VERSION = '1.01';
+no warnings; # in case they've been turned on
+
+$VERSION = '1.02';
 
 use strict;
 
